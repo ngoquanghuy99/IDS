@@ -1,3 +1,0 @@
-keras1 chi co 1 LSTM layer
-keras2 them 1 LSTM layer dropout
-tuong tu voi keras3
